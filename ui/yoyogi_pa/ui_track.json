@@ -1,0 +1,24 @@
+{
+  "name": "Shutoko Revival Project 0.9.1 - Yoyogi PA",
+  "description": "Shuto Expressway (首都高速道路, Shuto Kōsoku Dōro, lit. Metropolitan Expressway) is a network of toll expressways in the Greater Tokyo Area of Japan. It is operated and maintained by the Metropolitan Expressway Co., Ltd. (首都高速道路株式会社, Shuto Kōsoku Dōro Kabushiki-gaisha).<br>Most routes are grade-separated (elevated roads or tunnels) and central routes have many sharp curves and multi-lane merges which require caution to drive safely. The speed limit is 60 km/h on most routes, but 80 km/h on the Bayshore Route, and 50 km/h on the Inner Circular Route.<br>All trips on the expressway require a toll be paid. As of 2014, the cash toll for a standard-size car is &#165;930 regardless of distance travelled. Vehicles using the ETC toll-collection system pay a distance-based toll ranging from &#165;510 to &#165;930 for ordinary vehicles (see toll price) – in some cases substantially less than the previous fixed-rate toll. Lower cash rates exist for certain radial routes (where there are only a few kilometers of expressway remaining) and ETC users have various time-of-day discounts. For large vehicles, the toll is doubled.",
+  "tags": [
+    "c1",
+    "highway",
+    "original",
+    "Japan"
+  ],
+  "geotags": [
+    "35° 41′ 52″ N",
+    "139° 42′ 53″ E"
+  ],
+  "country": "Japan",
+  "city": "Tokyo",
+  "length": "165km",
+  "width": "4.5-13.5m",
+  "pitboxes": "40",
+  "run": "clockwise",
+  "author": "Shutoko Revival Project",
+  "version": "v0.9.1",
+  "url": "https://discordapp.com/invite/JydhbJG",
+  "year": 2007
+}
